@@ -1,1 +1,1 @@
-# Netflix-Clone
+# Flix
